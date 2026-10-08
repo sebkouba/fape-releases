@@ -1,0 +1,10 @@
+Try fape on Omarchy: https://tokenschmiede.com/fape/
+
+Install (opens setup automatically):
+curl -fsSL https://tokenschmiede.com/fape-trial/install.sh | bash
+
+Download installer: https://tokenschmiede.com/fape-trial/installer
+Read the script: https://github.com/sebkouba/fape-releases/blob/main/install.sh
+Releases and action-extension skill: https://github.com/sebkouba/fape-releases
+
+Seven-day trial. No email or API key required. You can also use your own Soniox key. Each beta build expires 30 days after building, including with personal keys.
