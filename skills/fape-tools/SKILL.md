@@ -7,6 +7,9 @@ description: Add custom Fape voice-action tools through local configuration and 
 
 Fape's action mode turns speech into calls to configured tools. You can add a
 tool using local files; you do not need the app source or a new app build.
+Voice actions require your own Soniox and Cerebras keys and an action shortcut
+configured in Settings. The funded trial supports dictation only, even when a
+Cerebras key is configured.
 
 ## Configure a tool
 

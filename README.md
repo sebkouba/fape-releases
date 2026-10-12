@@ -30,14 +30,16 @@ Reinstalling an update preserves your keys, settings and history.
 
 Choose **Use my own keys** during setup, or add them later in Settings.
 Your own Soniox key takes precedence over the trial. Cerebras is optional:
-basic dictation works without it; correction and voice actions require it.
+basic dictation works without it. The funded trial is dictation only, even if a
+Cerebras key is configured. Correction and voice actions require both your own
+Soniox and Cerebras keys.
 Provider usage with your own keys is billed by those providers.
 
-**This beta expires on 2026-11-07T09:15:10Z**, including when you use your own keys.
+**This beta expires on 2026-11-11T07:40:04Z**, including when you use your own keys.
 The deadline is 30 days from building, not installation. Install a newer beta
 before that date. This is a beta cutoff, not tamper-resistant licensing.
 
-Current release: **0.2.291**, application source revision `6881b7953dd4`.
+Current release: **0.2.356**, application source revision `7949b75591de`.
 See [Releases](https://github.com/sebkouba/fape-releases/releases) for installers,
 checksums and earlier versions. This repository distributes the app; its source
 code is private.
@@ -46,7 +48,7 @@ code is private.
 
 Give your agent [the fape-tools skill](skills/fape-tools/SKILL.md), or copy that
 folder into the agent's skills directory. It explains how to add local action
-extensions without the app source. Voice actions require your own Cerebras key
+extensions without the app source. Voice actions require your own Soniox and Cerebras keys
 and an action shortcut configured in Settings.
 
 ## Feedback
