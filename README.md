@@ -35,11 +35,19 @@ Cerebras key is configured. Correction and voice actions require both your own
 Soniox and Cerebras keys.
 Provider usage with your own keys is billed by those providers.
 
-**This beta expires on 2026-11-11T09:34:41Z**, including when you use your own keys.
+## Uninstall
+
+Use **Uninstall Fape…** at the bottom of Settings, or run `fape-uninstall`.
+Keep your keys, settings, shortcuts and history for reinstall (the default),
+or explicitly delete saved local data, including recordings. Finish dictation
+and save or discard held results and drafts first. The terminal shows the result
+and any steps needed to retry. The extracted package also includes `uninstall.sh`.
+
+**This beta expires on 2026-11-11T10:38:30Z**, including when you use your own keys.
 The deadline is 30 days from building, not installation. Install a newer beta
 before that date. This is a beta cutoff, not tamper-resistant licensing.
 
-Current release: **0.2.378**, application source revision `bbc61b3e2dba`.
+Current release: **0.2.384**, application source revision `e9d166f4dd83`.
 See [Releases](https://github.com/sebkouba/fape-releases/releases) for installers,
 checksums and earlier versions. This repository distributes the app; its source
 code is private.
