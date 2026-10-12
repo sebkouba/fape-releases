@@ -1,15 +1,15 @@
 {
-  "filename": "fape-0.2.374-x86_64-unknown-linux-gnu-ad71d582abd1-2026-11-11.zip",
-  "sha256": "1dd8bf68db64a6ad74445e135c95287a2a389ccda872e0aa8082b257d98cc072",
-  "bytes": 9975599,
-  "downloadUrl": "https://github.com/sebkouba/fape-releases/releases/download/v0.2.374/fape-0.2.374-x86_64-unknown-linux-gnu-ad71d582abd1-2026-11-11.zip",
-  "version": "0.2.374",
-  "revision": "ad71d582abd1",
-  "expiresAt": "2026-11-11T08:53:59Z",
+  "filename": "fape-0.2.378-x86_64-unknown-linux-gnu-bbc61b3e2dba-2026-11-11.zip",
+  "sha256": "888deb2ddbdee82c9dd92f94d52707334db4088febc45af3ab412e3610661709",
+  "bytes": 9976531,
+  "downloadUrl": "https://github.com/sebkouba/fape-releases/releases/download/v0.2.378/fape-0.2.378-x86_64-unknown-linux-gnu-bbc61b3e2dba-2026-11-11.zip",
+  "version": "0.2.378",
+  "revision": "bbc61b3e2dba",
+  "expiresAt": "2026-11-11T09:34:41Z",
   "installer": {
-    "filename": "fape-0.2.374-x86_64-unknown-linux-gnu-ad71d582abd1-2026-11-11.run",
-    "sha256": "efaf20f5a6623b364ebd97fa395846b544b46e63316917a4bd85705296c8fb78",
-    "bytes": 9966737,
-    "downloadUrl": "https://github.com/sebkouba/fape-releases/releases/download/v0.2.374/fape-0.2.374-x86_64-unknown-linux-gnu-ad71d582abd1-2026-11-11.run"
+    "filename": "fape-0.2.378-x86_64-unknown-linux-gnu-bbc61b3e2dba-2026-11-11.run",
+    "sha256": "70bd7f0b93b1345db33270fa0de6c42e3f6659019401a575775baa3b0e312c40",
+    "bytes": 9968179,
+    "downloadUrl": "https://github.com/sebkouba/fape-releases/releases/download/v0.2.378/fape-0.2.378-x86_64-unknown-linux-gnu-bbc61b3e2dba-2026-11-11.run"
   }
 }
