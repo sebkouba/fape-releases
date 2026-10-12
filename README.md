@@ -35,11 +35,11 @@ Cerebras key is configured. Correction and voice actions require both your own
 Soniox and Cerebras keys.
 Provider usage with your own keys is billed by those providers.
 
-**This beta expires on 2026-11-11T07:40:04Z**, including when you use your own keys.
+**This beta expires on 2026-11-11T08:53:59Z**, including when you use your own keys.
 The deadline is 30 days from building, not installation. Install a newer beta
 before that date. This is a beta cutoff, not tamper-resistant licensing.
 
-Current release: **0.2.356**, application source revision `7949b75591de`.
+Current release: **0.2.374**, application source revision `ad71d582abd1`.
 See [Releases](https://github.com/sebkouba/fape-releases/releases) for installers,
 checksums and earlier versions. This repository distributes the app; its source
 code is private.
