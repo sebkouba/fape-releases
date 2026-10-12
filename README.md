@@ -43,11 +43,11 @@ or explicitly delete saved local data, including recordings. Finish dictation
 and save or discard held results and drafts first. The terminal shows the result
 and any steps needed to retry. The extracted package also includes `uninstall.sh`.
 
-**This beta expires on 2026-11-11T10:38:30Z**, including when you use your own keys.
+**This beta expires on 2026-11-11T12:38:49Z**, including when you use your own keys.
 The deadline is 30 days from building, not installation. Install a newer beta
 before that date. This is a beta cutoff, not tamper-resistant licensing.
 
-Current release: **0.2.384**, application source revision `e9d166f4dd83`.
+Current release: **0.2.392**, application source revision `33edb8ec4b71`.
 See [Releases](https://github.com/sebkouba/fape-releases/releases) for installers,
 checksums and earlier versions. This repository distributes the app; its source
 code is private.
